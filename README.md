@@ -1,2 +1,2 @@
-# culturability-prediction-kmers
-Predicting Marine Bacterial Culturability Using Discriminative k-mers
+# Predicting Marine Bacterial Culturability Using Discriminative k-mers
+
